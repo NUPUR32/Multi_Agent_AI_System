@@ -1,356 +1,423 @@
-# ⚡ NUPUR32® AI OPERATING SYSTEM
+# ⚡Multi-Agent AI System
 
-**Version 2035.0.0 • Codename: NOVA**  
-*"An AI Company Inside Your Computer"*
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Multi--Agent%20System-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/Kubernetes-Cloud-326CE5?style=for-the-badge&logo=kubernetes">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge">
+</p>
 
-[![CI/CD Pipeline](https://github.com/nupur32/nupur32-ai-os/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/nupur32/nupur32-ai-os/actions)
-[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+<p align="center">
+
+# **The Future of Autonomous Artificial Intelligence**
+
+### **An Enterprise-Grade Multi-Agent AI Ecosystem Powered by Autonomous Collaboration**
+
+*"One AI answers questions. A Multi-Agent AI System builds solutions."*
+
+</p>
 
 ---
 
-## 🌟 Overview
+# 🌍 Overview
 
-NUPUR32 AI OS is a **fully autonomous, self-improving, production-ready AI Operating System** that operates as an **AI company inside your computer**. It features:
+**NUPUR32 AI Multi-Agent System** is a next-generation autonomous artificial intelligence platform where specialized AI agents collaborate, reason, remember, plan, and execute complex tasks as a coordinated digital workforce.
 
-- **40+ Specialized AI Agents** - From CEO to Emergency Recovery
-- **14 Memory Types** - Complete cognitive architecture
-- **10 Reasoning Frameworks** - CoT, ToT, GoT, Debate, Reflection, and more
-- **3 Knowledge Systems** - RAG, Vector Search, Knowledge Graph
-- **Enterprise Security** - Zero-trust, encryption, audit, threat detection
-- **Production Infrastructure** - Docker, K8s, CI/CD, monitoring
+Instead of relying on a single language model, the system creates an intelligent ecosystem composed of multiple expert agents working together through orchestration, shared memory, advanced reasoning, and knowledge retrieval.
+
+The architecture is designed for scalability, extensibility, enterprise deployment, and real-world AI automation.
 
 ---
 
-## 🚀 Quick Start
+# ✨ Key Features
 
-### Installation
+## 🤖 Autonomous AI Agents
+
+A complete ecosystem of specialized AI agents capable of collaborating autonomously.
+
+- Executive Agent
+- Project Manager
+- Software Engineer
+- Code Reviewer
+- Debugger
+- DevOps Engineer
+- Security Analyst
+- Cloud Architect
+- Research Agent
+- Machine Learning Engineer
+- Data Scientist
+- Knowledge Engineer
+- Documentation Agent
+- Vision Agent
+- Browser Agent
+- Reflection Agent
+- Optimization Agent
+- Emergency Recovery Agent
+
+and many more...
+
+---
+
+# 🧠 Advanced Memory System
+
+The platform includes a cognitive memory architecture inspired by human intelligence.
+
+### Memory Types
+
+- Working Memory
+- Short-Term Memory
+- Long-Term Memory
+- Semantic Memory
+- Episodic Memory
+- Procedural Memory
+- Conversation Memory
+- Knowledge Memory
+- Project Memory
+- User Memory
+- Emotional Memory
+- Spatial Memory
+- Skill Memory
+- Encrypted Memory
+
+---
+
+# 💡 Intelligent Reasoning Engine
+
+Supports multiple reasoning strategies that allow agents to think before acting.
+
+- Chain of Thought
+- Tree of Thoughts
+- Graph of Thoughts
+- Reflection
+- Debate
+- Recursive Reasoning
+- Self Critique
+- Goal Decomposition
+- Monte Carlo Planning
+- Hypothesis Generation
+
+---
+
+# 📚 Knowledge Ecosystem
+
+The system combines multiple knowledge sources.
+
+- Retrieval Augmented Generation (RAG)
+- Vector Databases
+- Knowledge Graphs
+- Semantic Search
+- Internet Search
+- Local Document Intelligence
+
+---
+
+# ⚙️ Core Architecture
+
+```
+                    ┌────────────────────────────┐
+                    │   User / API / Dashboard   │
+                    └──────────────┬─────────────┘
+                                   │
+                     AI Orchestrator & Scheduler
+                                   │
+      ┌───────────────┬────────────┼───────────────┬─────────────┐
+      │               │            │               │             │
+  AI Agents      Memory Engine   Knowledge     Reasoning     Security
+                                   Hub          Engine        Layer
+      │               │            │               │             │
+      └───────────────┴────────────┼───────────────┴─────────────┘
+                                   │
+                           Event Bus & Plugins
+                                   │
+                     APIs • Docker • Kubernetes
+```
+
+---
+
+# 🚀 Major Capabilities
+
+### Multi-Agent Collaboration
+
+Agents communicate with one another.
+
+Delegate work.
+
+Share knowledge.
+
+Vote on decisions.
+
+Reach consensus.
+
+Execute tasks.
+
+---
+
+### Autonomous Planning
+
+The system automatically
+
+- Breaks goals into subtasks
+- Assigns expert agents
+- Tracks progress
+- Optimizes execution
+
+---
+
+### Continuous Learning
+
+Every completed task improves the system.
+
+Agents learn from:
+
+- Previous conversations
+- Successful executions
+- Failures
+- Reflections
+
+---
+
+### Enterprise APIs
+
+- REST APIs
+- FastAPI
+- Async Execution
+- WebSocket Streaming
+- Plugin System
+
+---
+
+### Security
+
+- Zero Trust Architecture
+- JWT Authentication
+- Encryption
+- Audit Logs
+- Secret Management
+- Threat Detection
+
+---
+
+# 📂 Project Structure
+
+```
+multi-agent-ai-system/
+
+│
+├── agents/
+│   ├── executive/
+│   ├── development/
+│   ├── research/
+│   ├── security/
+│   ├── operations/
+│   └── creative/
+│
+├── orchestrator/
+├── memory/
+├── reasoning/
+├── knowledge/
+├── api/
+├── plugins/
+├── monitoring/
+├── dashboard/
+├── config/
+├── tests/
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── main.py
+```
+
+---
+
+# 🚀 Getting Started
+
+## Clone Repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/nupur32/nupur32-ai-os.git
-cd nupur32-ai-os
+git clone https://github.com/NUPUR32/Multi_Agent_AI_System.git
 
-# Create virtual environment
+cd Multi_Agent_AI_System
+```
+
+---
+
+## Create Virtual Environment
+
+```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-# Install dependencies
+Windows
+
+```bash
+venv\Scripts\activate
+```
+
+Linux / Mac
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+## Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-# Copy and configure environment
+---
+
+## Configure Environment
+
+```bash
 cp .env.example .env
-# Edit .env with your API keys
 ```
 
-### Run the System
+Add your API keys.
+
+```
+OPENAI_API_KEY=
+GOOGLE_API_KEY=
+ANTHROPIC_API_KEY=
+GROQ_API_KEY=
+```
+
+---
+
+## Run the System
 
 ```bash
-# Interactive Mode (recommended first run)
 python main.py
-
-# Initialize System
-python main.py --init
-
-# Run a Mission
-python main.py --mission "Research the latest trends in AI agents"
-
-# Launch Futuristic Dashboard
-python main.py --dashboard
-
-# Check System Status
-python main.py --status
-
-# Start REST API
-python main.py --api
 ```
 
-### Docker Deployment
+---
+
+# 🐳 Docker Deployment
 
 ```bash
-# Build and run with Docker Compose
-docker-compose up -d
-
-# Or build individual stages
-docker build --target production -t nupur32-core .
-docker run -p 8000:8000 -p 8501:8501 nupur32-core
-```
-
----
-
-## 🏗️ Architecture
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    NUPUR32® AI OS                            │
-├─────────────────────────────────────────────────────────────┤
-│                     🧠 ORCHESTRATOR                          │
-├──────────────┬──────────────┬──────────────┬────────────────┤
-│  🤖 AGENTS  │  🧠 MEMORY   │  📚 KNOWLEDGE│  💡 REASONING  │
-│  (40+)       │  (14 types)  │  (3 systems) │  (10 methods)  │
-├──────────────┼──────────────┼──────────────┼────────────────┤
-│  🔌 PLUGINS │  🔒 SECURITY │  📊 MONITOR  │  🚀 DEPLOY    │
-│  (hot-swap)  │  (zero-trust)│  (full obs)  │  (Docker/K8s)  │
-├──────────────┴──────────────┴──────────────┴────────────────┤
-│                    EVENT BUS (Async Pub/Sub)                 │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Directory Structure
-
-```
-nupur32-ai-os/
-├── ai_ecosystem/          # Core AI Ecosystem
-│   ├── core/              # Infrastructure (Event Bus, DI, Plugins)
-│   ├── config/            # Configuration & Model Registry
-│   ├── agents/            # 40+ Specialized AI Agents
-│   ├── memory/            # Cognitive Memory System
-│   ├── knowledge/         # RAG, Knowledge Graph, Vector Search
-│   ├── reasoning/         # Multi-framework Reasoning Engine
-│   ├── monitoring/        # Observability & Metrics
-│   ├── orchestrator.py    # Main System Orchestrator
-│   └── api.py             # REST API Gateway
-├── tests/                 # Comprehensive Test Suite
-├── main.py                # Entry Point
-├── dashboard_nova.py      # Futuristic Dashboard
-├── Dockerfile             # Multi-stage Docker Build
-├── docker-compose.yml     # Full Stack Deployment
-└── .github/workflows/     # CI/CD Pipeline
-```
-
----
-
-## 🤖 Agent Ecosystem (40+)
-
-| Category | Agents |
-|----------|--------|
-| **🧠 Executive** | CEO, Project Manager, Architect, Planner, Supervisor, Decision |
-| **🔬 Intelligence** | Researcher, Internet, Reasoning, Analytics, Data Engineer, ML Engineer |
-| **💻 Development** | Coding, Reviewer, Debugger, Testing, Documentation |
-| **🛡️ Security** | Security, DevOps, Cloud, Risk Analysis, Ethics |
-| **🎨 Creative** | Vision, Speech, Image, Video, Browser, Computer Control |
-| **📋 Operations** | Email, Calendar, Finance, Legal, Monitoring |
-| **🧠 Cognitive** | Memory, Knowledge, Reflection, Learning, Optimization |
-| **⚙️ Core** | Consensus, Quality Assurance, Execution, Emergency Recovery |
-
-Each agent has:
-- ✅ Unique **personality** (Big 5 traits)
-- ✅ Defined **goals** and **capabilities**
-- ✅ Personal **memory** and **reflection**
-- ✅ **Confidence scoring** and **performance metrics**
-- ✅ **Self-learning** from experience
-
----
-
-## 🧠 Memory System (14 Types)
-
-| Type | Description | Duration |
-|------|-------------|----------|
-| **Working** | Current task context | Seconds |
-| **Short-term** | Recent interactions | Minutes-Hours |
-| **Long-term** | Consolidated knowledge | Indefinite |
-| **Semantic** | Facts and concepts | Indefinite |
-| **Episodic** | Personal experiences | Indefinite |
-| **Procedural** | Skills and processes | Indefinite |
-| **Conversation** | Chat history | Session |
-| **Knowledge** | Learned information | Indefinite |
-| **Skill** | Acquired capabilities | Indefinite |
-| **Project** | Project-specific data | Project lifecycle |
-| **User** | User preferences | Indefinite |
-| **Emotional** | Affective context | Short-term |
-| **Spatial** | Location awareness | Session |
-| **Encrypted** | Secure data | Per policy |
-
----
-
-## 💡 Reasoning Frameworks (10)
-
-| Method | Description | Use Case |
-|--------|-------------|----------|
-| **Chain-of-Thought** | Step-by-step reasoning | Complex problem solving |
-| **Tree-of-Thoughts** | Multiple reasoning paths | Creative exploration |
-| **Graph-of-Thoughts** | Interconnected reasoning | System analysis |
-| **Reflection** | Self-analysis & improvement | Quality assurance |
-| **Self-Critique** | Error detection & correction | Code review |
-| **Debate** | Multi-perspective analysis | Decision making |
-| **Monte Carlo** | Probabilistic simulation | Risk assessment |
-| **Goal Decomposition** | Hierarchical breakdown | Project planning |
-| **Recursive** | Nested problem solving | Complex systems |
-| **Hypothesis** | Generate & test | Research |
-
----
-
-## 📊 System Capabilities
-
-### Autonomous
-- ✅ Self-planning and scheduling
-- ✅ Independent task execution
-- ✅ Automatic error recovery
-- ✅ Continuous self-improvement
-- ✅ Performance optimization
-
-### Enterprise
-- ✅ Multi-tenant support
-- ✅ RBAC/ABAC security
-- ✅ Audit logging
-- ✅ Rate limiting
-- ✅ Secrets management
-- ✅ Encryption at rest/transit
-
-### Integration
-- ✅ REST API (FastAPI)
-- ✅ WebSocket streaming
-- ✅ Web search (Serper, Tavily)
-- ✅ Browser automation
-- ✅ Email/Calendar
-- ✅ Cloud (AWS, Azure, GCP)
-- ✅ Database (Postgres, MongoDB, Redis, Neo4j)
-- ✅ File processing (PDF, DOCX, XLSX)
-
-### Observability
-- ✅ Prometheus metrics
-- ✅ Grafana dashboards
-- ✅ OpenTelemetry tracing
-- ✅ Health checks
-- ✅ GPU monitoring
-- ✅ Alert system
-
----
-
-## 🚦 API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/` | System info |
-| GET | `/health` | Health check |
-| GET | `/status` | System status |
-| POST | `/mission` | Execute mission |
-| POST | `/reason` | Apply reasoning |
-| POST | `/memory/store` | Store memory |
-| GET | `/memory/search` | Search memories |
-| GET | `/memory/stats` | Memory statistics |
-| POST | `/knowledge/add` | Add knowledge |
-| POST | `/knowledge/search` | Search knowledge |
-| GET | `/agents` | List agents |
-| GET | `/agents/{role}` | Get agent details |
-| GET | `/metrics` | System metrics |
-| GET | `/alerts` | Active alerts |
-
----
-
-## 🐳 Deployment
-
-### Docker
-```bash
-# Production build
-docker build --target production -t nupur32-core .
-
-# Development build
-docker build --target development -t nupur32-dev .
-
-# Dashboard
-docker build --target dashboard -t nupur32-dashboard .
-
-# Full stack
 docker-compose up -d
 ```
 
-### Kubernetes
-```yaml
-kubectl apply -f k8s/deployment.yaml
-kubectl apply -f k8s/service.yaml
-kubectl apply -f k8s/configmap.yaml
-```
-
-### CI/CD Pipeline
-The `.github/workflows/ci-cd.yml` includes:
-- ✅ Code quality (Black, Ruff, MyPy)
-- ✅ Unit & integration tests
-- ✅ Security scanning (Bandit, Safety)
-- ✅ Docker build & push
-- ✅ Automated deployment
-
----
-
-## 🧪 Testing
+or
 
 ```bash
-# Run all tests
-pytest
+docker build -t multi-agent-ai .
 
-# Run with coverage
-pytest --cov=ai_ecosystem --cov-report=html
-
-# Run specific tests
-pytest tests/test_event_bus.py -v
-pytest tests/test_agents.py -v
-pytest tests/test_memory.py -v
+docker run multi-agent-ai
 ```
 
 ---
 
-## 🔧 Configuration
-
-Key environment variables (see `.env.example`):
+# ☁️ Kubernetes
 
 ```bash
-# Models
-OPENAI_API_KEY=sk-...
-ANTHROPIC_API_KEY=sk-ant-...
-GOOGLE_API_KEY=...
-XAI_API_KEY=...
+kubectl apply -f deployment.yaml
 
-# Security
-NUPUR32_MASTER_KEY=...
-JWT_SECRET=...
-ENCRYPTION_ENABLED=true
-
-# Databases
-POSTGRES_URL=postgresql://...
-MONGODB_URL=mongodb://...
-REDIS_URL=redis://...
+kubectl apply -f service.yaml
 ```
 
 ---
 
-## 📈 Performance
+# 📈 Enterprise Features
 
-- **40+ agents** running concurrently
-- **<100ms** event bus latency
-- **99.97%** system uptime target
-- **Horizontal scaling** via microservices
-- **Auto-scaling** based on load
-- **Distributed** task execution
+✅ Multi-Agent Collaboration
 
----
+✅ Event-Driven Architecture
 
-## 🗺️ Future Roadmap
+✅ Plugin Framework
 
-- [x] **v2035.0** - Core AI Ecosystem (Current)
-- [ ] **v2035.1** - Federated multi-node deployment
-- [ ] **v2035.2** - GUI agent (desktop automation)
-- [ ] **v2035.3** - Voice interface & multimodal
-- [ ] **v2035.4** - Marketplace & plugin ecosystem
-- [ ] **v2036.0** - Self-evolving architecture
+✅ RAG Pipeline
 
----
+✅ Knowledge Graph
 
-## 📚 Documentation
+✅ Vector Search
 
-- [Architecture Guide](docs/ARCHITECTURE.md)
-- [Agent Development Guide](docs/AGENTS.md)
-- [API Reference](docs/API.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Security Guide](docs/SECURITY.md)
+✅ Memory Engine
 
----
+✅ Reflection Engine
 
-## 📄 License
+✅ Self-Improvement
 
-Proprietary - NUPUR32® All Rights Reserved
+✅ Monitoring
+
+✅ Logging
+
+✅ Docker Support
+
+✅ Kubernetes Support
+
+✅ REST API
+
+✅ WebSocket
+
+✅ Distributed Execution
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by NUPUR32 • The Future of Autonomous AI</sub>
-</div>
+# 🔮 Future Roadmap
+
+### Version 2.0
+
+- Federated Multi-Agent Network
+- Agent Marketplace
+- Autonomous Code Generation
+- Desktop Automation
+- Voice AI
+
+### Version 3.0
+
+- Self-Evolving AI Agents
+- Multi-Computer Collaboration
+- Autonomous Research Teams
+- AI Operating Environment
+
+### Version 4.0
+
+- AI Company Simulation
+- Autonomous Enterprise Management
+- AGI-Inspired Cognitive Framework
+
+---
+
+# 🛠️ Tech Stack
+
+- Python
+- FastAPI
+- LangChain
+- OpenAI
+- Anthropic
+- Google Gemini
+- Groq
+- Docker
+- Kubernetes
+- PostgreSQL
+- MongoDB
+- Redis
+- Neo4j
+- FAISS
+- ChromaDB
+- OpenTelemetry
+- Prometheus
+- Grafana
+
+---
+
+# 🎯 Vision
+
+Our mission is to redefine artificial intelligence by moving beyond single-model assistants toward autonomous, collaborative, and self-improving multi-agent ecosystems capable of solving complex real-world problems.
+
+---
+
+# 👨‍💻 Developer
+
+### **Nupur**
+
+**AI Engineer • Multi-Agent Systems • Autonomous AI • Enterprise AI • Intelligent Automation**
+
+---
+
+## ⭐ Star this repository if you believe the future belongs to autonomous AI agents.
