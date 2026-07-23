@@ -23,7 +23,7 @@
 
 # 🌍 Overview
 
-**NUPUR32 AI Multi-Agent System** is a next-generation autonomous artificial intelligence platform where specialized AI agents collaborate, reason, remember, plan, and execute complex tasks as a coordinated digital workforce.
+**AI Multi-Agent System** is a next-generation autonomous artificial intelligence platform where specialized AI agents collaborate, reason, remember, plan, and execute complex tasks as a coordinated digital workforce.
 
 Instead of relying on a single language model, the system creates an intelligent ecosystem composed of multiple expert agents working together through orchestration, shared memory, advanced reasoning, and knowledge retrieval.
 
