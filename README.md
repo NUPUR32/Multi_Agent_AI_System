@@ -10,7 +10,9 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Engineering+the+Future+of+Autonomous+Intelligence;🤖+Enterprise-Grade+Multi-Agent+AI+Platform;🧠+Think+•+Reason+•+Collaborate+•+Execute;🌐+Building+Tomorrow's+AI+Workforce;⚡+40%2B+Autonomous+AI+Agents;🔒+Security+•+Research+•+Development+•+Analytics;🌌+Welcome+to+the+Era+of+Autonomous+Collective+Intelligence" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Engineering+the+Future+of+Autonomous+Intelligence;🤖+Enterprise-Grade+Multi-Agent+AI+Platform;🧠+Think+•+Reason+•+Collaborate+•+Execute;🌍+Building+Tomorrow's+AI+Workforce" alt="Typing SVG" />
+</p>
 
 </div>
 
