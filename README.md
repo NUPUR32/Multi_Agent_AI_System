@@ -1,24 +1,24 @@
-<div align="center">
-
 # ⚡ NUPUR32® Multi-Agent AI System
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+Engineering+the+Future+of+Autonomous+Intelligence;🤖+Enterprise-Grade+Multi-Agent+AI+Platform;⚡+Think+•+Reason+•+Collaborate+•+Execute+•+Evolve" />
-
-<p align="center">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Multi--Agent-blueviolet?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Distributed-success?style=for-the-badge)
+![AI](https://img.shields.io/badge/Multi--Agent-AI-8A2BE2?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Enterprise-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
 
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Engineering+the+Future+of+Autonomous+Intelligence;🤖+Enterprise-Grade+Multi-Agent+AI+Platform;🧠+Think+•+Reason+•+Collaborate+•+Execute;🌐+Building+Tomorrow's+AI+Workforce;⚡+40%2B+Autonomous+AI+Agents;🔒+Security+•+Research+•+Development+•+Analytics;🌌+Welcome+to+the+Era+of+Autonomous+Collective+Intelligence" />
+
+</div>
 
 ---
 
-## 🌌 Beyond Artificial Intelligence
+# 🌌 Beyond Artificial Intelligence
 
-### **Welcome to the Era of Autonomous Collective Intelligence**
+## **Welcome to the Era of Autonomous Collective Intelligence**
 
 Traditional AI models generate responses.
 
@@ -26,11 +26,11 @@ Traditional AI models generate responses.
 
 It is not simply an AI assistant.
 
-It is a **digital AI workforce** engineered to function as an autonomous organization.
+It is a **digital AI workforce engineered to function as an autonomous organization.**
 
 ---
 
-## ⚡ Core Philosophy
+# ⚡ Core Philosophy
 
 > 🧠 **One AI answers questions.**  
 > 🚀 **A Multi-Agent AI System understands problems.**  
@@ -39,13 +39,15 @@ It is a **digital AI workforce** engineered to function as an autonomous organiz
 
 ---
 
+<div align="center">
+
 # 🌐 Welcome to the Future of Intelligent Automation
 
-### **Think Beyond Chatbots.**
+## **Think Beyond Chatbots.**
 
-### **Think Beyond Copilots.**
+## **Think Beyond Copilots.**
 
-# ⚡ Think Autonomous Intelligence.
+# ⚡ **Think Autonomous Intelligence.**
 
 </div>
 
