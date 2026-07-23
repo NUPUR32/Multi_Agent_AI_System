@@ -358,6 +358,110 @@ kubectl apply -f service.yaml
 
 ---
 
+---
+
+# 📸 Screenshots
+
+## 🚀 NOVA Control Center
+
+<p align="center">
+  <img src="./screenshots/Dashboard.png" alt="NOVA Control Center Dashboard" width="100%">
+</p>
+
+The main dashboard providing centralized monitoring and control of the Multi-Agent AI System.
+
+---
+
+## 📊 Advanced Analytics Dashboard
+
+<p align="center">
+  <img src="./screenshots/Analytics.png" alt="Analytics Dashboard" width="100%">
+</p>
+
+Real-time analytics including agent performance, confidence scores, task execution metrics, and system monitoring.
+
+---
+
+## 🧠 Core AI Agents
+
+<p align="center">
+  <img src="./screenshots/Core_Agents.png" alt="Core AI Agents" width="100%">
+</p>
+
+The foundational autonomous agents responsible for orchestration, planning, execution, and decision making.
+
+---
+
+## 🔬 Intelligence & Development Agents
+
+<p align="center">
+  <img src="./screenshots/Intelligence & Development Agents.png" alt="Intelligence and Development Agents" width="100%">
+</p>
+
+Specialized AI agents for research, reasoning, coding, debugging, testing, documentation, analytics, and machine learning.
+
+---
+
+## ⚙️ Executive Agents
+
+<p align="center">
+  <img src="./screenshots/Executive_Agents.png" alt="Executive Agents" width="100%">
+</p>
+
+High-level management agents responsible for coordinating workflows, planning, and autonomous execution.
+
+---
+
+## 🧩 Operations & Cognitive Agents
+
+<p align="center">
+  <img src="./screenshots/Operations & Coginitive Agents.png" alt="Operations and Cognitive Agents" width="100%">
+</p>
+
+Operational intelligence combined with cognitive reasoning for adaptive decision making and workflow optimization.
+
+---
+
+## 🧠 Cognitive AI Layer
+
+<p align="center">
+  <img src="./screenshots/Coginitive.png" alt="Cognitive Agents" width="100%">
+</p>
+
+AI reasoning, memory management, contextual understanding, and autonomous learning capabilities.
+
+---
+
+## 🔒 Security Agents
+
+<p align="center">
+  <img src="./screenshots/Security.png" alt="Security Agents" width="100%">
+</p>
+
+Dedicated agents responsible for monitoring, validation, security policies, and threat detection.
+
+---
+
+## 🛡️ Security & Creative Agents
+
+<p align="center">
+  <img src="./screenshots/Security and Creative Agents.png" alt="Security and Creative Agents" width="100%">
+</p>
+
+Creative AI working alongside security-focused agents for intelligent content generation and protected execution.
+
+---
+
+## 📋 Complete System Overview
+
+<p align="center">
+  <img src="./screenshots/Dashboard1.png" alt="Complete Dashboard" width="100%">
+</p>
+
+A complete overview of the entire NUPUR32 Multi-Agent AI ecosystem with all autonomous agent categories.
+
+---
+
 # 🔮 Future Roadmap
 
 ### Version 2.0
